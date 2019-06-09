@@ -15,6 +15,14 @@ Central University of Finance and Economics, Bachelor of Science in Financial Ma
 
 
 ## Code Examples
-https://github.com/zfz423187810/Projects-for-course-Mathematical-Modeling
+#### https://github.com/fuzhongzhou/Projects-for-course-Mathematical-Modeling
 
-https://github.com/zfz423187810/American-Asian-Option-Pricing
+MATLAB programs related to projects aasigned in course Mathematical Modeling in 2017-2018 Spring. The repository includes
+
+- 1
+
+- 2
+
+- 3
+
+#### https://github.com/fuzhongzhou/American-Asian-Option-Pricing
