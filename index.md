@@ -1,4 +1,7 @@
 ## Personal Infomation
+Fuzhong Zhou
+Carnegie Mellon University, Master of Science in Computational Finance 2019-2021
+Central University of Finance and Economics, Bachelor of Science in Financial Mathematics, 2015-2019
 
 ## Code Examples
 
