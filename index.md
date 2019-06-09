@@ -19,10 +19,18 @@ Central University of Finance and Economics, Bachelor of Science in Financial Ma
 
 MATLAB programs related to projects aasigned in course Mathematical Modeling in 2017-2018 Spring. The repository includes
 
-- 1
+- Encoder and Decoder for Hill cipher
 
-- 2
+- Self-designed image concatenating algorithms for vertically-splitted image pieces and 3\*3 grid image pieces
 
-- 3
+- Image softening program (resolution improving) using interpolation method
+
+- Small movies for simple mathematical concepts such as Fourier series fitting, Taylor expension and Newton's method
+
+- The implementation of a *Snake Game*
+
+- A simulation program of *Werewolf Game (lang-ren-sha)* using Monte Carlo Simulation to determine the best number of each role
 
 #### https://github.com/fuzhongzhou/American-Asian-Option-Pricing
+
+Python programs which implement three binary tree pricing methods for American Asian options: CRR binary tree, Hull-White binary tree and Singular Point binary tree.
