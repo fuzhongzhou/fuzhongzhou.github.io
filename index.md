@@ -34,3 +34,7 @@ MATLAB programs related to projects aasigned in course Mathematical Modeling in 
 #### https://github.com/fuzhongzhou/American-Asian-Option-Pricing
 
 Python programs which implement three binary tree pricing methods for American Asian options: CRR binary tree, Hull-White binary tree and Singular Point binary tree.
+
+#### https://github.com/fuzhongzhou/Projects-for-course-Data-Mining
+Python programs which implement a machine learning method Random Intersection Trees.
+
