@@ -9,9 +9,12 @@ Address: 55 Broad St., New York City, 10004 NY, USA
 
 ## Biography
 Carnegie Mellon University, NY, USA
-Master of Science in Computational Finance, 2019 - 2021
 
+Master of Science in Computational Finance, 2019 - 2021
+//
+//
 Central University of Finance and Economics, Beijing, CN
+
 Bachelor of Science in Financial Mathematics, 2015 - 2019
 
 
