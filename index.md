@@ -38,3 +38,7 @@ Python programs which implement three binary tree pricing methods for American A
 #### https://github.com/fuzhongzhou/Projects-for-course-Data-Mining
 Python programs which implement a machine learning method Random Intersection Trees.
 
+#### https://github.com/fuzhongzhou/Undergrad-Thesis
+In the undergraduate thesis, I used some basic deep learning methods to predict the Shanghai Composite Stock Market Index, including Full-Connected Neural Network, Convoluted Neural Network, Long Short Term Memory.
+
+I used Python to implement those NN models, and they were constructed with TensorFlow.
