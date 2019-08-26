@@ -4,13 +4,15 @@ MSCF 2020 Candidate, Tepper School of Business, Carnegie Mellon University
 
 E-mail: fuzhongz@andrew.cmu.edu, joe_zhoufz@163.com
 
-Address: 55 Broad St., New York City,10004 NY, USA
+Address: 55 Broad St., New York City, 10004 NY, USA
 
 
 ## Biography
-Carnegie Mellon University, Master of Science in Computational Finance 2019-2021
+Carnegie Mellon University, NY, USA
+Master of Science in Computational Finance, 2019 - 2021
 
-Central University of Finance and Economics, Bachelor of Science in Financial Mathematics, 2015-2019
+Central University of Finance and Economics, Beijing, CN
+Bachelor of Science in Financial Mathematics, 2015 - 2019
 
 
 
