@@ -2,7 +2,7 @@ Fuzhong Zhou
 
 MSCF 2020 Candidate, Tepper School of Business, Carnegie Mellon University
 
-E-mail: fuzhongz@andrew.cmu.edu, joe_zhoufz@163.com
+E-mail: fuzhongz@andrew.cmu.edu, joe.zhoufz@gmail.com
 
 Address: 55 Broad St., New York City, 10004 NY, USA
 
@@ -18,6 +18,30 @@ Master of Science in Computational Finance, 2019 - 2021
 Bachelor of Science in Financial Mathematics, 2015 - 2019
 
 
+## Professional Experience
+#### Morgan Stanley, NY, USA
+
+Summer Associate, Bank Resource Management Division, Jun 2020 - Aug 2020
+
+
+#### WorldQuant, Beijing, CN
+
+Alpha Consultant, July 2018 - July 2019
+
+
+#### Regent Capital, Beijing, CN
+
+Quantitative Investment Intern, Jan 2019 - Jun 2019
+
+
+#### CITIC Securities, Beijing, CN
+
+Quantitative Summer Intern, July 2018 - Oct 2018
+
+
+#### Yinhua Fund Management, Beijing, CN
+
+Quantitative Analysis Intern, Jan 2018 - Feb 2018
 
 ## Code Examples
 #### https://github.com/fuzhongzhou/Projects-for-course-Mathematical-Modeling
