@@ -64,7 +64,9 @@ MATLAB programs related to projects aasigned in course Mathematical Modeling in 
 Python programs which implement three binary tree pricing methods for American Asian options: CRR binary tree, Hull-White binary tree and Singular Point binary tree.
 
 #### https://github.com/fuzhongzhou/Projects-for-course-Data-Mining
-Python programs which implement a machine learning method Random Intersection Trees.
+Python programs which implement a machine learning method Random Intersection Trees[Shah 2013].
+
+Shah, Rajen & Meinshausen, Nicolai. (2013). Random Intersection Trees. J Machine Learning Res.. 15. 
 
 #### https://github.com/fuzhongzhou/Undergrad-Thesis
 In the undergraduate thesis, I used some basic deep learning methods to predict the Shanghai Composite Stock Market Index, including Full-Connected Neural Network, Convoluted Neural Network, Long Short Term Memory.
