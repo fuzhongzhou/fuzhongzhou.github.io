@@ -18,7 +18,6 @@ Master of Science in Computational Finance, 2019 - 2021
 Bachelor of Science in Financial Mathematics, 2015 - 2019
 
 
-## Professional Experience
 #### Morgan Stanley, NY, USA
 
 Summer Associate, Bank Resource Management Division, Jun 2020 - Aug 2020
