@@ -74,6 +74,6 @@ In the undergraduate thesis, I used some basic deep learning methods to predict 
 I used Python to implement those NN models, and they were constructed with TensorFlow.
 
 #### https://github.com/fuzhongzhou/Optimization
-Collaberated with MSCF Team (Erran Li https://www.linkedin.com/in/erranli/, Fei Wang https://www.linkedin.com/in/feiwang-mhc-cmu/, Xinyu Wang https://www.linkedin.com/in/xinyu-wang-m-s-9642a8127/) in Cornell Investment Portfolio Case Competition. We developed a nesting pipline that incorporate risk parity and Black Litterman, addressing asset allocation for target-dated funds.
+Collaberated with MSCF Team (Erran Li https://www.linkedin.com/in/erranli/, Fei Wang https://www.linkedin.com/in/feiwang-mhc-cmu/, Xinyu Wang https://www.linkedin.com/in/xinyu-wang-m-s-9642a8127/) in Cornell Investment Portfolio Case Competition. We developed a nesting pipline that incorporates risk parity and Black Litterman, addressing asset allocation for target-dated funds.
 
 The code are written in a plain format, future class-based instruments will be updated.
