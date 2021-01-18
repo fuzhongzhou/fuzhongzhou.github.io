@@ -47,7 +47,7 @@ Quantitative Analysis Intern, Jan 2018 - Feb 2018
 - https://almostsuremath.com/
 - https://fabricebaudoin.wordpress.com/
 
-/*
+
 ## Code Examples
 #### https://github.com/fuzhongzhou/Projects-for-course-Mathematical-Modeling
 
@@ -82,4 +82,4 @@ I used Python to implement those NN models, and they were constructed with Tenso
 #### https://github.com/fuzhongzhou/Optimization
 Collaberated with MSCF Team (Erran Li https://www.linkedin.com/in/erranli/, Fei Wang https://www.linkedin.com/in/feiwang-mhc-cmu/, Xinyu Wang https://www.linkedin.com/in/xinyu-wang-m-s-9642a8127/) in Cornell Investment Portfolio Case Competition. We developed a nesting pipline that incorporates risk parity and Black Litterman, addressing asset allocation for target-dated funds.
 
-The code are written in a plain format, future class-based instruments will be updated.*/
+The code are written in a plain format, future class-based instruments will be updated.
