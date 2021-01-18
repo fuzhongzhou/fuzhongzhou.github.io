@@ -7,7 +7,7 @@ E-mail: fuzhongz@andrew.cmu.edu, joe.zhoufz@gmail.com
 Address: 55 Broad St., New York City, 10004 NY, USA
 
 
-## Biography
+## Education
 #### Carnegie Mellon University, NY, USA
 
 Master of Science in Computational Finance, 2019 - 2021
@@ -18,6 +18,7 @@ Master of Science in Computational Finance, 2019 - 2021
 Bachelor of Science in Financial Mathematics, 2015 - 2019
 
 
+## Industrial Experience
 #### Morgan Stanley, NY, USA
 
 Summer Associate, Bank Resource Management Division, Jun 2020 - Aug 2020
