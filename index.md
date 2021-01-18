@@ -44,8 +44,8 @@ Quantitative Summer Intern, July 2018 - Oct 2018
 Quantitative Analysis Intern, Jan 2018 - Feb 2018
 
 ## Useful Websites
-- 1111
-- 2222
+- https://almostsuremath.com/
+- https://fabricebaudoin.wordpress.com/
 
 
 ## Code Examples
