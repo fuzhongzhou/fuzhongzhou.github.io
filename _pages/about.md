@@ -11,6 +11,7 @@ profile:
   more_info:
     <p>500 W 120th St.</p>
     <p>New York, NY</p>
+    <p>Email: fz2329@columbia.edu</p>
 
 # <p>Google Scholar <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
 news: false # includes a list of news items
