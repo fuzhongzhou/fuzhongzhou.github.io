@@ -8,7 +8,7 @@ profile:
   align: right
   image: IMG_6079.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
     <p>500 W 120th St.</p>
     <p>New York, NY</p>
 
