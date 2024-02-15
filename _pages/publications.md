@@ -10,7 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications"> 
 * Authors are listed alphabetically
-`$$ E = mc^2 $$`
 
 {% bibliography %}
 
