@@ -10,11 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>500 W 120th St.</p>
-
-    # <p>Google Scholar <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
-
     <p>New York, NY</p>
 
+# <p>Google Scholar <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
