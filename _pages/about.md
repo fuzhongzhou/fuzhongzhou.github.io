@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -8,9 +8,11 @@ profile:
   align: right
   image: IMG_6079.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
     <p>555 your office number</p>
-    <p><a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
+
+    <p>Google Scholar <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
+
     <p>New York, NY</p>
 
 news: false # includes a list of news items
@@ -25,6 +27,6 @@ social: false # includes social icons at the bottom of the page
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 ---
-My name is Fuzhong Zhou and I am currently a third year Ph.D. student at Columbia University, department of Industrial Engineering and Operation Research (IEOR), under the advisory of [Prof. Daniel Lacker](https://www.columbia.edu/~dl3133/). My research interests lie in interacting particle systems, differential game theory, and their intersect with reinforcement learning.
+My name is Fuzhong Zhou and I am currently a third year Ph.D. student at Columbia University department of Industrial Engineering and Operation Research (IEOR), under the advisory of [Prof. Daniel Lacker](https://www.columbia.edu/~dl3133/). My research interests lie in interacting particle systems, differential game theory, and their intersect with reinforcement learning.
 
 I completed my master's degree in computational finance at Carnegie Mellon University, and my bachalor's degree in applied mathematics at Central University of Finance and Economics in China.
