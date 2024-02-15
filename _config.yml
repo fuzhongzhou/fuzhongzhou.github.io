@@ -203,7 +203,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages/about.md"]
+include: ["_pages"]
 exclude:
   - bin
   - CONTRIBUTING.md
@@ -220,6 +220,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - vendor
+  - _pages_notinuse
 keep_files:
   - CNAME
   - .nojekyll
@@ -283,8 +284,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Zhou]
+  first_name: [Fuzhong]
 
   style: apa
   locale: en
