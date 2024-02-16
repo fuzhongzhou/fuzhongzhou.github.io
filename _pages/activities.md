@@ -5,8 +5,8 @@ title: Activities
 description:
 nav: true
 nav_order: 6
-
 ---
+___
 
 ## Teaching
 #### Teaching Assistant for Columbia MFE Courses
