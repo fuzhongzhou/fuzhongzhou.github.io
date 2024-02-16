@@ -9,8 +9,6 @@ profile:
   image: IMG_6079.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>500 W 120th St.</p>
-    <p>New York, NY</p>
     <p>fz2329 (at) columbia.edu</p>
 
 # <p>Google Scholar <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
