@@ -9,7 +9,8 @@ profile:
   image: IMG_6079.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>fz2329 (at) columbia.edu</p>
+    <p>E-mail: fz2329 (at) columbia.edu</p>
+    <p> New York, NY </p>
 
 # <p>Google Scholar <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></p>
 news: false # includes a list of news items
