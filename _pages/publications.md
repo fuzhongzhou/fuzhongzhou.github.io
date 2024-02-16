@@ -7,12 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-$$\dagger$$ is a dagger.
+$$\dagger$$ Authors listed alphabetically \
+* Equal Contribution
 <!-- _pages/publications.md -->
 <div class="publications"> 
-* Authors listed alphabetically
-$$\dagger$$ is a dagger2.
-
 {% bibliography %}
-
 </div>
