@@ -9,6 +9,14 @@ nav_order: 6
 
 
 
-##### Morgan Stanley
-<em> Summer Associate, Bank Resource Management, XVA Strategies Division </em>
-Jun. 2020 - Aug. 2020
+#### Morgan Stanley
+<em> Summer Associate, Bank Resource Management, XVA Strategies Division </em> \
+ Jun. 2020 - Aug. 2020, New York, NY
+
+#### CITIC Securities
+Quantitative Summer Analyst, Department of Exotic Trading
+Jul. 2018 - Oct. 2018, Beijing CN
+
+#### Worldquant
+Alpha Strategy Consultant
+Aug. 2018 - Jun. 2019, Beijing CN
