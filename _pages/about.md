@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 ---
 My name is Fuzhong Zhou and I am currently a third year Ph.D. student at Columbia University department of Industrial Engineering and Operation Research (IEOR), under the advisory of [Prof. Daniel Lacker](https://www.columbia.edu/~dl3133/). My research lies in probability theory in stochastic analysis and control; more specifically, I am interested in interacting particle systems, differential game theory, and their intersect with reinforcement learning.
 
-I completed my master's degree in computational finance at Carnegie Mellon University, and my bachalor's degree in applied mathematics at Central University of Finance and Economics in China.
+I completed my master's degree in computational finance at Carnegie Mellon University, and my bachalor's degree in applied mathematics at Central University of Finance and Economics in China. 
 
 
 ### Education
