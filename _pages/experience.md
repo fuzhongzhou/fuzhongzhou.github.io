@@ -13,9 +13,11 @@ ___
 <em> Summer Associate, Bank Resource Management, XVA Strategies Division </em> \
  Jun. 2020 - Aug. 2020, New York, NY
 
+<!---
 ##### Worldquant
 <em> Alpha Strategy Consultant </em> \
 Aug. 2018 - Jun. 2019, Beijing CN
+--->
 
 ##### Regent Capital Management
 <em> Quantitative Investment Intern, Alpha Research Group </em> \
