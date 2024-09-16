@@ -31,6 +31,6 @@ I completed my master's degree in computational finance ([MSCF](https://www.cmu.
 
 
 ### Education
-- Ph.D. in Operation Research, Columbia University, Sep. 2021 - 
+- Ph.D. in Operation Research, Columbia University, Sep. 2021 - current
 - M.S. in Computational Finance, Carnegie Mellon University, Aug. 2019 - Dec. 2020
 - B.S. in Applied Mathematics, Central University of Finance and Economics, Sep. 2015 - Jun. 2019
