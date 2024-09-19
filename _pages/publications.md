@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 $$\dagger$$ Authors listed alphabetically \
-\* Equal Contribution
+#\* Equal Contribution
 <!-- _pages/publications.md -->
 <div class="publications"> 
 {% bibliography %}
