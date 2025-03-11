@@ -10,6 +10,7 @@ ___
 
 ### Teaching
 ##### Teaching Assistant for Columbia MFE Courses
+- IEOR 4540 Data Mining (Spring 2025)
 - IEOR 4701 Stochastic Modeling for Financial Engineering (Fall 2023)
 - IEOR 4718 Introduction to Implied Volatility (Spring 2022, Spring 2023)
 - IEOR 4700 Introduction to Financial Engineering (Fall 2022)
