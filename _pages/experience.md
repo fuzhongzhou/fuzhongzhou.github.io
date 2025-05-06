@@ -9,10 +9,6 @@ nav_order: 6
 
 ___
 
-##### Tiktok
-<em> Machine Learning Engineer Intern, E-commerce Supply Chain and Logistics </em> \
- Jun. 2025 - Aug. 2025 (Expected), Bellevue, WA
-
 ##### Morgan Stanley
 <em> Summer Associate, Bank Resource Management, XVA Strategies Division </em> \
  Jun. 2020 - Aug. 2020, New York, NY
