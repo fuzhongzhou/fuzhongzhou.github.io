@@ -9,10 +9,11 @@ nav_order: 6
 
 ___
 
+<!---
 ##### Uber Technologies
 <em> Software Engineering Intern, Shared Rides Team </em> \
  Jun. 2025 - Aug. 2025, New York, NY
-
+-->
 
 ##### Morgan Stanley
 <em> Summer Associate, Bank Resource Management, XVA Strategies Division </em> \
