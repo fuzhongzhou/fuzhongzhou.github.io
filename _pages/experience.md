@@ -22,11 +22,12 @@ ___
 <em> Alpha Strategy Consultant </em> \
 Aug. 2018 - Jun. 2019, Beijing CN
 
-
+<!--- 
 ##### Regent Capital Management
 <em> Quantitative Investment Intern, Alpha Research Group </em> \
 Mar. 2019 - Jun. 2019, Beijing CN
-
+ --->
+ 
 ##### CITIC Securities
 <em> Quantitative Summer Analyst, Department of Exotic Trading </em> \
 Jul. 2018 - Oct. 2018, Beijing CN
