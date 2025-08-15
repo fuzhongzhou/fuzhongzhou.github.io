@@ -9,9 +9,8 @@ nav_order: 6
 ___
 
 ### Invited Talks
-<!--- 
-- International Conference on Monte Carlo Methods and Applications, July 28 - Aug. 1, 2025
- --->
+- International Conference on Monte Carlo Methods and Applications, Chicago, July 2025
+
  
 ### Teaching
 ##### Teaching Assistant
