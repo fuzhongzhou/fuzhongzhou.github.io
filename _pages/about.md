@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: IMG_6079.png
+  image: IMG_2651.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>E-mail: fz2329 (at) columbia.edu</p>
