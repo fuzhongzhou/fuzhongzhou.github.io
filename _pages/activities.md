@@ -14,6 +14,7 @@ ___
  
 ### Teaching
 ##### Teaching Assistant
+- IEOR 3658 Probability for Engineers (Spring 2026)
 - IEOR 4701 Stochastic Modeling for Financial Engineering (Fall 2023, Fall 2025)
 - IEOR 4540 Data Mining (Spring 2025)
 - IEOR 4718 Introduction to Implied Volatility (Spring 2022, Spring 2023)
