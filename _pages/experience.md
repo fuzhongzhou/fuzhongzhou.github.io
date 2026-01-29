@@ -9,6 +9,10 @@ nav_order: 6
 
 ___
 
+##### Two Sigma
+<em> Incoming Quantitative Researcher </em> \
+2026, New York, NY
+
 ##### Uber Technologies
 <em> Ph.D. Software Engineering Intern, Shared Rides Team </em> \
  Jun. 2025 - Aug. 2025, New York, NY
