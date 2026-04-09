@@ -9,6 +9,7 @@ nav_order: 6
 ___
 
 ### Invited Talks
+- American Control Conference, New Orleans, May 2026
 - International Conference on Monte Carlo Methods and Applications, Chicago, July 2025
 
  
